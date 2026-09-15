@@ -1,0 +1,100 @@
+0: Skip to content
+1: Contact us
+2: Investors
+3: Global | EN
+4: Your location
+5: Global | EN
+6: Worldwide
+7: Global | EN
+8: Americas
+9: Argentina | ES
+10: Brazil | PT
+11: Canada | EN
+12: Canada | FR
+13: Colombia | ES
+14: Guatemala | EN
+15: Mexico | ES
+16: United States | EN
+17: Asia Pacific
+18: Australia | EN
+19: China | ZH
+20: India | EN
+21: Japan | JP
+22: New Zealand | EN
+23: Singapore | EN
+24: Europe, Middle East & Africa
+25: Austria | EN
+26: Belgium | EN
+27: Czech Republic | EN
+28: Denmark | EN
+29: Egypt | EN
+30: Finland | EN
+31: France | FR
+32: Germany | DE
+33: Hungary | EN
+34: Ireland | EN
+35: Italy | IT
+36: Luxembourg | EN
+37: Morocco | EN
+38: Netherlands | NL
+39: Norway | NO
+40: Poland | PL
+41: Portugal | EN
+42: Romania | EN
+43: KSA | EN
+44: Spain | ES
+45: Sweden | EN
+46: Switzerland | EN
+47: UAE | EN
+48: UK | EN
+49: Insights
+50: Industries
+51: Services
+52: Careers
+53: News
+54: About us
+55: Search
+56: Dark and light mode toggle, currently light mode
+57: Currently in light mode
+58: Home
+59: Careers
+60: Why join Capgemini
+61: Life at Capgemini
+62: Meet our people
+63: Career paths
+64: Join us
+65: Join Capgemini
+66: Job search
+67: Recruitment process
+68: Interview tips
+69: Job search
+70: Job search
+71: Search jobs by location, profession or keywords
+72: Search
+73: GTM & CoE Lead, Insights & Data
+74: Eindhoven, Utrecht, Amsterdam, Assen, Groningen + 4
+75: Data & AI
+76: Permanent
+77: Executives
+78: Senior .Net Engineer (C# / IoT)
+79: Kyiv, Lviv, Rivne, Odesa, HITECHPARKODESA
+80: Software Engineering
+81: Permanent
+82: Experienced Professionals
+83: Senior .Net Engineer (C# / IoT)
+84: Kyiv, HITECHPARKODESA, Rivne, Lviv
+85: Software Engineering
+86: Permanent
+87: Experienced Professionals
+88: Senior Python Engineer
+89: Kyiv, Lviv, Rivne, Odesa, HITECHPARKODESA
+90: Software Engineering
+91: Permanent
+92: Experienced Professionals
+93: Senior GIS Consultant / Technical Lead
+94: Iasi, Bucharest
+95: Software Engineering
+96: Permanent
+97: Experienced Professionals
+98: Senior Consultant (SAP FI/CO)
+99: Cluj-Napoca, Iasi, Brasov, Bucuresti

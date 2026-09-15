@@ -1,0 +1,30 @@
+
+================================================================================
+JOBS AVAILABLE IN HYDERABAD
+Total Jobs: 3
+================================================================================
+
+1. Cloud Architect|10-12Yrs|Hyderabad
+   Location: Hyderabad
+   Experience: 10-12 Years
+   Employment Type: Permanent
+   Posting Date: 2026-08-28
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Cloud Architect for AWS/Azure solutions. Location: Hyderabad...
+
+2. Data Engineer|6-8Yrs|Hyderabad
+   Location: Hyderabad
+   Experience: 6-8 Years
+   Employment Type: Permanent
+   Posting Date: 2026-08-30
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Data Engineer with Big Data and Spark expertise. Location: Hyderabad...
+
+3. DevOps Engineer|4-6Yrs|Hyderabad
+   Location: Hyderabad
+   Experience: 4-6 Years
+   Employment Type: Permanent
+   Posting Date: 2026-09-01
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: DevOps Engineer with Kubernetes and Docker experience. Location: Hyderabad...
+

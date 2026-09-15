@@ -1,0 +1,30 @@
+
+================================================================================
+JOBS AVAILABLE IN PUNE
+Total Jobs: 3
+================================================================================
+
+1. Senior Java Developer|8-10Yrs|Pune
+   Location: Pune
+   Experience: 8-10 Years
+   Employment Type: Permanent
+   Posting Date: 2026-09-01
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Senior Java Developer with 8-10 years experience in Spring Boot and Microservices. Location: Pune...
+
+2. Python Full Stack Developer|5-7Yrs|Pune
+   Location: Pune
+   Experience: 5-7 Years
+   Employment Type: Permanent
+   Posting Date: 2026-09-02
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Python Full Stack Developer with Django/Flask experience. Location: Pune...
+
+3. Business Analyst|3-5Yrs|Pune
+   Location: Pune
+   Experience: 3-5 Years
+   Employment Type: Permanent
+   Posting Date: 2026-09-01
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Business Analyst for Banking and Finance domain. Location: Pune...
+

@@ -1,0 +1,22 @@
+
+================================================================================
+JOBS AVAILABLE IN CLUJ
+Total Jobs: 2
+================================================================================
+
+1. Senior Consultant (SAP FI/CO)
+   Location: Cluj
+   Experience: N/A
+   Employment Type: SaaS Solutions
+   Posting Date: N/A
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Senior Consultant (SAP FI/CO) | Cluj-Napoca, Iasi, Brasov, Bucuresti...
+
+2. Data Engineer Databricks
+   Location: Cluj
+   Experience: N/A
+   Employment Type: Cloud Infrastructure Management
+   Posting Date: N/A
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Data Engineer Databricks | Cluj-Napoca, Iasi, Brasov, Bucuresti...
+

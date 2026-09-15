@@ -1,0 +1,30 @@
+
+================================================================================
+JOBS AVAILABLE IN KYIV
+Total Jobs: 3
+================================================================================
+
+1. Senior .Net Engineer (C# / IoT)
+   Location: Kyiv
+   Experience: N/A
+   Employment Type: Software Engineering
+   Posting Date: N/A
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Senior .Net Engineer (C# / IoT) | Kyiv, Lviv, Rivne, Odesa, HITECHPARKODESA...
+
+2. Senior .Net Engineer (C# / IoT)
+   Location: Kyiv
+   Experience: N/A
+   Employment Type: Software Engineering
+   Posting Date: N/A
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Senior .Net Engineer (C# / IoT) | Kyiv, HITECHPARKODESA, Rivne, Lviv...
+
+3. Senior Python Engineer
+   Location: Kyiv
+   Experience: N/A
+   Employment Type: Software Engineering
+   Posting Date: N/A
+   Job URL: https://www.capgemini.com/careers/join-capgemini/job-search/?page=1&size=11
+   Description: Senior Python Engineer | Kyiv, Lviv, Rivne, Odesa, HITECHPARKODESA...
+

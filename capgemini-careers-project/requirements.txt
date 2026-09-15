@@ -1,0 +1,6 @@
+playwright
+pandas
+matplotlib
+wordcloud
+beautifulsoup4
+numpy
